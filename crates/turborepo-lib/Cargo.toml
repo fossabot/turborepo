@@ -88,7 +88,7 @@ swc_ecma_ast = { workspace = true, features = ["serde-impl"] }
 swc_ecma_parser = { workspace = true }
 sysinfo = "0.27.7"
 thiserror = "1.0.38"
-time = "0.3.20"
+time = "0.3.47"
 tiny-gradient = { workspace = true }
 tokio = { workspace = true, features = ["full", "time"] }
 tokio-stream = { version = "0.1.12", features = ["net"] }
